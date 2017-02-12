@@ -1,7 +1,7 @@
 {
   "name": "gulp-sass-browser-sync",
-  "version": "1.0.0",
-  "description": "gulp, automatic sass compile, browser reload when *.jss, *.html files change, minify js and css",
+  "version": "1.0.1",
+  "description": "gulp, automatic sass compile, browser reload when *.js, *.html files change, minify js and css",
   "main": "gulpfile.js",
   "author": "Sergio Asensio",
   "license": "ISC",
